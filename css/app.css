@@ -1,0 +1,19 @@
+body {
+  font-family: 'NeueHaasUnicaPro-Regular';
+  background-color: #F2FDFF;
+}
+
+.display {
+  font-family: 'Futura Round';
+  font-size: 6rem;
+  text-align: right;
+  line-height: 1.0;
+}
+
+.dat-nav {
+  background-color: #49D49D;
+}
+
+p {
+  font-size: 1.375rem;
+}
